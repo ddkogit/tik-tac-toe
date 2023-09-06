@@ -1,2 +1,3 @@
 # tik-tac-toe
-# Tic-Tac-Toe  [Visit Website](https://ddkogit.github.io/odin-library)
+
+[Visit Website](https://ddkogit.github.io/tik-tac-toe)
